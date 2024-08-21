@@ -50,4 +50,3 @@ This password manager uses the `Fernet` symmetric encryption from the `cryptogra
 ## License
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute this software as you see fit.
-```
